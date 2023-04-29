@@ -8,7 +8,7 @@ coverY: 0
 
 `Mybatis`整体架构如下图：
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Mybatis执行流程 <a href="#item-3" id="item-3"></a>
 
